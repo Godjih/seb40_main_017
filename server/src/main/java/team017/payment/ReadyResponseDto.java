@@ -12,5 +12,4 @@ public class ReadyResponseDto {
     private String next_redirect_pc_url;    //사용자 정보 입력 화면 Redirect URL
     private String partner_order_id;        //주문 Id
 
-
 }
